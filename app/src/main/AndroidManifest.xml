@@ -12,7 +12,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".exceptiondemo.ExceptionActivity">
+        <activity android:name=".animatedemo_20170310.objectAnimator.AnimActivity02">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
